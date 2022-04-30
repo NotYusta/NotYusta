@@ -8,6 +8,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NotYusta&show_icons=true&locale=en&layout=compact&theme=dark" alt="NotYusta" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotYusta&show_icons=true&locale=en&theme=dark" alt="NotYusta" /></p>
 <a href="https://wakatime.com/@notyusta" target="_blank">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=notyusta&layout=compact" alt="notyusta" /></a>
-
+<br/>
 <h3 align="left">My fellas:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotYusta&show_icons=true&locale=en&theme=dark" alt="NotYusta" /></p>
