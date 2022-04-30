@@ -11,4 +11,7 @@
 <a href="https://wakatime.com/@notyusta" target="_blank">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=notyusta&layout=compact" alt="notyusta" /></a>
 </div>
 
+<div>
+
 <h3 align="left">My fellas:</h3>
+</div>
