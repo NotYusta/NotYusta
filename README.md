@@ -14,5 +14,5 @@
 <div>
 
 <h3 align="left">My fellas:</h3>
-<a src="https://github.com/hansputera"><img align="left" src="https://avatars.githubusercontent.com/u/47862061?v=4" alt="NotYusta" />Hanif</a>
+<a src="https://github.com/hansputera"><img align="left" src="https://avatars.githubusercontent.com/u/47862061?v=4" alt="NotYusta" /></a>
 </div>
