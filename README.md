@@ -10,9 +10,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NotYusta&show_icons=true&locale=en&theme=dark" alt="NotYusta" /></p>
 <a href="https://wakatime.com/@notyusta" target="_blank">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=notyusta&layout=compact" alt="notyusta" /></a>
 </div>
-
-<div>
-
-<h3 align="left">My fellas:</h3>
-<a src="https://github.com/hansputera"><img align="left" src="https://avatars.githubusercontent.com/u/47862061?v=4" alt="NotYusta" /></a>
-</div>
