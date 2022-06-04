@@ -9,7 +9,7 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 - [Auto Backup](https://www.mc-market.org/resources/23643/) - A blazingly fast performance auto backup script with logs!
 - [Invitation Bot](https://github.com/NotYusta/invitation-dcbot) - Just some test bot
 ## Organizations:
-- [**Orume Studios**](https://github.com/Orume-Studios)
+- [**Orume Studios**](https://github.com/Orume-Studios) - this gonna be my main company in years.
 - [**Raznar**](https://github.com/Raznar-Hosting)
 - [**Orume MC**](https://github.com/Orume-MC)
 
