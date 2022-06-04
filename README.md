@@ -6,8 +6,8 @@ I live on Tangerang Selatan, Indonesia.
 Honestly though coding stuff makes me dizzy and here it is the journey of my life.
 
 ## Active Projects
-- [Auto Backup](https://www.mc-market.org/resources/23643/) A blazingly fast performance auto backup script with logs!
-- [Invitation Bot](https://github.com/NotYusta/invitation-dcbot) Just some test bot
+- [Auto Backup](https://www.mc-market.org/resources/23643/) - A blazingly fast performance auto backup script with logs!
+- [Invitation Bot](https://github.com/NotYusta/invitation-dcbot) - Just some test bot
 ## Organizations:
 - [**Orume Studios**](https://github.com/Orume-Studios)
 - [**Raznar**](https://github.com/Raznar-Hosting)
