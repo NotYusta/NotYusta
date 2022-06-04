@@ -1,11 +1,9 @@
 ## Hi 👋
 I do what i'd like to do, i'm an tech enthuasists.
 
-Let me introduce you myself, my name is Yudha Abhista
+Let me introduce you myself, my name is Yudha Abhista.
 I live on Tangerang Selatan, Indonesia.
-
-Honestly though coding stuff makes me dizzy
-and here it is the journey of my life.
+Honestly though coding stuff makes me dizzy and here it is the journey of my life.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NotYusta&label=Profile%20views&color=0e75b6&style=flat" alt="NotYusta" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
