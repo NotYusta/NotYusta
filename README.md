@@ -1,4 +1,4 @@
-<h1>Hi there 👋, i'm Yusta</h1>
+## Hi 👋
 I do what i'd like to do, i'm an tech enthuasists.
 
 Let me introduce you myself, my name is Yudha Abhista
