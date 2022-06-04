@@ -5,16 +5,16 @@ Let me introduce you myself, my name is Yudha Abhista.
 I live on Tangerang Selatan, Indonesia.
 Honestly though coding stuff makes me dizzy and here it is the journey of my life.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NotYusta&label=Profile%20views&color=0e75b6&style=flat" alt="NotYusta" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
-
-<h1>Active Projects</h1>
+## Active Projects
 - [Auto Backup](https://www.mc-market.org/resources/23643/) A blazingly fast performance auto backup script with logs!
 - [Invitation Bot](https://github.com/NotYusta/invitation-dcbot) Just some test bot
 ## Organizations:
 - [**Orume Studios**](https://github.com/Orume-Studios)
 - [**Raznar**](https://github.com/Raznar-Hosting)
 - [**Orume MC**](https://github.com/Orume-MC)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NotYusta&label=Profile%20views&color=0e75b6&style=flat" alt="NotYusta" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
