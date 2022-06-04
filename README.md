@@ -4,7 +4,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
 
 ## Organizations:
-**Orume Studios**
+- [**Orume Studios**](https://github.com/Orume-Studios)
+- [**Raznar**](https://github.com/Raznar-Hosting)
+- [**Orume MC**](https://github.com/Orume-MC)
 
 <div>
 <h3 align="left">Languages and Tools:</h3>
