@@ -10,8 +10,7 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 
 <h1>Active Projects</h1>
 - [Auto Backup](https://www.mc-market.org/resources/23643/)
-
-- 
+ 
 ## Organizations:
 - [**Orume Studios**](https://github.com/Orume-Studios)
 - [**Raznar**](https://github.com/Raznar-Hosting)
