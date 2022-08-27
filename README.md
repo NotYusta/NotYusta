@@ -16,6 +16,7 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 ## Achievements in 2021 - Mid 2022
 - I've achieved my dream setup
 - I have learned many programming languages (backend) and understands as how they works.
+- Cloud server management.
 
 ## To Do(s) - 2022
 - A fit body (i'm too thin and skinny) 
