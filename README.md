@@ -20,9 +20,10 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 
 ## To Do(s) - 2022
 - A fit body (i'm too thin and skinny) 
-- Learn PHP Laravel
+- Learn PHP Laravel (php is the language i most hated after python.)
 - Learn React
-- Learn App Dev (Flutter & Kotlin)
+- Learn App Dev - Flutter
+- Learn Android App Dev - Kotlin
 
 <p>I might be inactive in social media(s) in order to achieve em</p>
 
