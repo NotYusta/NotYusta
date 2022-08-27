@@ -14,6 +14,7 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 - [**Orume MC**](https://github.com/Orume-MC)
 
 ## To Do(s) - 2022
+<p>I might be inactive in social media(s) in order to achieve these</p>
 - A fit body (i'm too thin and skinny) 
 - Learn PHP Laravel
 - Learn React
