@@ -13,6 +13,10 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 - [**Raznar**](https://github.com/Raznar-Hosting)
 - [**Orume MC**](https://github.com/Orume-MC)
 
+## Achievements in 2021 - Mid 2022
+- I've achieved my dream setup
+- I have learned many programming languages (backend) and understands as how they works.
+
 ## To Do(s) - 2022
 - A fit body (i'm too thin and skinny) 
 - Learn PHP Laravel
