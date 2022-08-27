@@ -24,7 +24,7 @@ Honestly though coding stuff makes me dizzy and here it is the journey of my lif
 - Learn React
 - Learn App Dev (Flutter & Kotlin)
 
-<p>I might be inactive in social media(s) in order to achieve those</p>
+<p>I might be inactive in social media(s) in order to achieve em</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NotYusta&label=Profile%20views&color=0e75b6&style=flat" alt="NotYusta" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
