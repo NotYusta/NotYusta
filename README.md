@@ -1,9 +1,9 @@
 ## Hi 👋
-I do what i'd like to do, i'm an tech or computer enthuasists, been touching computer things since i was 3.
+I do what i'd like to do, i'm an tech or computer enthuasists, been touching computer stuff since i was 3.
 
 Let me introduce you myself, my name is Yudha Abhista.
 I live on Tangerang Selatan, Indonesia.
-Honestly though coding stuff makes me dizzy and here it is the journey of my life.
+Coding is ...
 
 ## Active Projects
 - [Auto Backup](https://www.mc-market.org/resources/23643/) - A blazingly fast performance auto backup script with logs!
