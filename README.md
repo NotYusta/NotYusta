@@ -1,5 +1,5 @@
 ## Hi 👋
-I do what i'd like to do, i'm an tech or computer enthuasists, been touching computer stuff since i was 3.
+I do what i'd like to do, i'm a tech or computer enthuasists, been touching computer stuff since i was 3.
 
 Let me introduce you myself, my name is Yudha Abhista.
 I live on Tangerang Selatan, Indonesia.
