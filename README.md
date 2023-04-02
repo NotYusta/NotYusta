@@ -1,9 +1,8 @@
 ## Hi 👋
 I do what i'd like to do, i'm a tech or computer enthuasists, been touching computer stuff since i was 3.
 
-Let me introduce you myself, my name is Yudha Abhista.
 I live on Tangerang Selatan, Indonesia.
-Coding is ...
+Coding is 😑
 
 ## Active Projects
 - [Auto Backup](https://www.mc-market.org/resources/23643/) - A blazingly fast performance auto backup script with logs!
@@ -11,19 +10,15 @@ Coding is ...
 ## Organizations:
 - [**Orume Studios**](https://github.com/Orume-Studios)
 - [**Raznar**](https://github.com/Raznar-Hosting)
+- [**Raznar Lab**](https://github.com/Raznar-Lab)
 - [**Orume MC**](https://github.com/Orume-MC)
 
 ## Achievements in 2021 - Mid 2022
 - I've achieved my dream setup
 - I have learned many programming languages (backend) and understands as how they works.
-- Cloud server management.
-
-## To Do(s) - (2022 - 2023)
-- A fit body (i'm too thin and skinny) 
-- Learn PHP Laravel (php is the language i most hated after python.)
-- Learn React
-- Learn App Dev - Flutter
-- Learn Android App Dev - Kotlin
+- I have learned how front ends works, both server side and client side.
+- I have learned how to setup a Desktop Server.
+- Cloud Server Management.
 
 <p>I might be inactive in social media(s) in order to achieve em</p>
 
