@@ -13,13 +13,6 @@ Coding is 😑
 - [**Raznar Lab**](https://github.com/Raznar-Lab)
 - [**Orume MC**](https://github.com/Orume-MC)
 
-## Achievements in 2021 - Mid 2022
-- I've achieved my dream setup
-- I have learned many programming languages (backend) and understands as how they works.
-- I have learned how front ends works, both server side and client side.
-- I have learned how to setup a Desktop Server.
-- Cloud Server Management.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NotYusta&label=Profile%20views&color=0e75b6&style=flat" alt="NotYusta" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notyusta&theme=dracula" alt="NotYusta" /></a> </p>
 
