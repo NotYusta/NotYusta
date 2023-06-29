@@ -9,7 +9,7 @@ Coding is 😑
 - [Invitation Bot](https://github.com/NotYusta/invitation-dcbot) - Just some test bot
 ## Organizations:
 - [**Orume Studios**](https://github.com/Orume-Studios)
-- [**Raznar**](https://github.com/Raznar-Hosting)
+- [**Raznar Hosting**](https://github.com/Raznar-Hosting)
 - [**Raznar Lab**](https://github.com/Raznar-Lab)
 - [**Orume MC**](https://github.com/Orume-MC)
 
